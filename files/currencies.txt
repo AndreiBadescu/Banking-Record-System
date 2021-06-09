@@ -1,0 +1,7 @@
+RON
+MDL
+BGN
+USD
+EUR
+GBP
+BTC

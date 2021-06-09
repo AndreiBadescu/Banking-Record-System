@@ -1,0 +1,6 @@
+Ce doriti sa modificati ?
+[1] -> Numele
+[2] -> Valuta
+[3] -> Pinul
+
+PRESS ANY OTHER KEY TO EXIT...

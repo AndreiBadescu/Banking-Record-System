@@ -1,0 +1,5 @@
+Alegeti o optiune:
+[1] -> Cautare dupa numarul de cont
+[2] -> Cautare dupa numele complet
+
+PRESS ANY OTHER KEY TO GO BACK...

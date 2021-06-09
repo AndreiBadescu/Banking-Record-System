@@ -1,0 +1,11 @@
+Alegeti una dintre urmatoarele optiuni
+[1] -> Cautare utilizator
+[2] -> Afisare utilizatori
+[3] -> Accesare cont bancar
+[4] -> Adaugare cont nou
+[5] -> Stergere cont existent
+[6] -> Retragere suma din cont
+[7] -> Depunere suma in cont
+[8] -> Modificare cont utilizator
+
+PRESS ANY OTHER KEY TO EXIT...
